@@ -1,0 +1,21 @@
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\bin\Debug\Greenaid IDE.exe.config
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\bin\Debug\Greenaid IDE.exe
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\bin\Debug\Greenaid IDE.pdb
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.Form1.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.Properties.Resources.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.exe
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.pdb
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.createproject.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.mainmenu.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.options.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.nomain.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.openproject.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.createfile.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\bin\Debug\FastColoredTextBox.dll
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid IDE.csproj.CopyComplete
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.about.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.creatininitialfiles.resources
+C:\Users\Pc\source\repos\Greenaid IDE\Greenaid IDE\obj\Debug\Greenaid_IDE.logsform.resources
