@@ -16,7 +16,7 @@ Greenaid IDE Is a new, powerfull and lightweight IDE that is capable of much thi
 
 ## Requeriments:
 
-Minimum:
+### Minimum:
 
 * OS: Windows XP (MAYBE), Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 and above (x86 or x64)
 * CPU: a 1.6GHz CPU or better (Intel Pentium 4 1.6GHz, AMD Athlon XP 1900+ or better)
@@ -24,7 +24,7 @@ Minimum:
 * Hard Disk: 1GB for projects, 5MB for the program
 * Programs: Microsoft .NET Framework 4.8
 
-Recommended:
+### Recommended:
 
 * OS: Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 and above (x64)
 * CPU: a 2.4GHz CPU or better (Intel Pentium 4 2.4GHz, AMD Athlon 64 4000+ or better)
@@ -32,7 +32,17 @@ Recommended:
 * Hard Disk: 20 GB for projects, 10MB for the program
 * Programs: Microsoft .NET Framework 4.8
 
+## Performance:
+
+Greenaid IDE uses between 8MB to 30MB, 0 to 0.5% of CPU and 0% of GPU (depends of your computer of course)
+
 ## License:
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/GreenSoupDeveloper/Greenaid-IDE/blob/master/license.txt)
+
+## Contact 
+
+if you have any question, send a Discord message to GreenSoup Developer#4806.
+
+
 
