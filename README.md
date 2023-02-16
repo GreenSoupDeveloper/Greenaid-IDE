@@ -10,7 +10,7 @@ Greenaid IDE Is a new, powerfull and lightweight IDE that is capable of much thi
 * Can compile C# code
 * Can compile Visual Basic code
 * You can make projects
-* A minimalist interface, not like that abomination of Windows 11 style
+* A simple interface, not like that abomination of Windows 11 style
 * Themes, later i will add custom theme support
 * And more!
 
@@ -18,7 +18,7 @@ Greenaid IDE Is a new, powerfull and lightweight IDE that is capable of much thi
 
 Minimum:
 
-* OS: Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 and above (x86 or x64)
+* OS: Windows XP (MAYBE), Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11 and above (x86 or x64)
 * CPU: a 1.6GHz CPU or better (Intel Pentium 4 1.6GHz, AMD Athlon XP 1900+ or better)
 * RAM: 64MB or above
 * Hard Disk: 1GB for projects, 5MB for the program
