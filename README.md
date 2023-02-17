@@ -38,7 +38,7 @@ Greenaid IDE uses between 8MB to 30MB, 0 to 0.5% of CPU and 0% of GPU (depends o
 
 ## License:
 
-This project is licensed under the [MIT License](https://github.com/GreenSoupDeveloper/Greenaid-IDE/blob/master/license.txt)
+This project is licensed under the [MIT License](https://github.com/GreenSoupDeveloper/Greenaid-IDE/blob/master/LICENSE.md)
 
 ## Contact 
 
